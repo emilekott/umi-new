@@ -65,4 +65,6 @@ register_sidebar(array(
 	'after_title' => '</h3>'
 ));
 
+add_image_size('wide_post_thumb_big', 940, 0, false);
+
 ?>
